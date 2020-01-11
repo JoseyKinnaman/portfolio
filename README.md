@@ -9,6 +9,6 @@ A digital resume and portfolio
 * CSS
 * HTMML
 
-##Legal
+## Legal
 Copyright (c) 2020 Josey Kinnaman
 This software is licensed under the MIT license.
