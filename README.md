@@ -3,7 +3,7 @@
 ## Description
 A digital resume and portfolio
 ## Setup
-* Open GH-Pages link in web browser or clone the repository. 
+* Open GH-Pages link in web browser or clone the repository. https://jozypants.github.io/portfolio/
 ## Technologies 
 * Bootstrap
 * CSS
