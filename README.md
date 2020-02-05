@@ -4,7 +4,7 @@
 A digital resume and portfolio
 ## Setup
 * Open GH-Pages link in web browser or clone the repository. 
-https://github.com/Jozypants/portfolio
+https://jozypants.github.io/portfolio/
 ## Technologies 
 * Bootstrap
 * CSS
